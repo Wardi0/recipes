@@ -1,3 +1,11 @@
 # Ingredients
-- An egg
+- An egg.
+- Milk.
+- Pepper.
+- Chives. 
+- Cheddar cheese.
+- Ham.
 
+#Tools
+- Blender.
+- Frying Pan.
